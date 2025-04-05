@@ -13,7 +13,7 @@ Projetos de análise e desenvolvimento de sistemas
 [danniell2528@gmail.com](mailto:danniell2528@gmail.com)
 
 🌐 **Site:**  
-(Em breve ou insira o link aqui)
+(Em breve)
 
 🧠 **Curiosidade:**  
 Apaixonado por aprendizado contínuo – estou sempre explorando novas tecnologias

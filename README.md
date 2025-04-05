@@ -1,13 +1,17 @@
-- - 👋 Hi, I'm @DanniellMendss
-- 👀 I'm interested in systems analysis and development | Back-end
-- 🌱 I'm currently learning Systems Analysis and Development
-- 💞️ I'm looking to collaborate in analysis and development
-- 📫 How to contact me (dmtecnologias@gmail.com)
-- 😄 Pronouns: DanniellMendss
-- ⚡ Curiosity: I like to learn every day
+👋 Olá, sou o Danniell Mendss (@DanniellMendss)
+  
+👨‍💻 Áreas de interesse: Back-end • Design Gráfico • UX/UI • VFX (Visual Effects)
+
+🚀 Atualmente estudando: Desenvolvimento Back-end & VFX
+
+🤝 Buscando colaborar com: Projetos de análise e desenvolvimento de sistemas
+
+📫 Contato: danniell2528@gmail.com
+
+🧠 Curiosidade: Apaixonado por aprendizado contínuo – estou sempre explorando novas tecnologias
 <!---
-DanniellMendss/DanniellMendss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+DanniellMendss/DanniellMendss é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
+Você pode clicar no link Preview para dar uma olhada nas suas alterações.
 --->
 
 <picture>

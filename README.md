@@ -1,14 +1,23 @@
-👋 Olá, sou o Danniell Mendss (@DanniellMendss)
-  
-👨‍💻 Áreas de interesse: Back-end • Design Gráfico • UX/UI • VFX (Visual Effects)
+### 👋 Olá, sou o Danniell Mendss (@DanniellMendss)
 
-🚀 Atualmente estudando: Desenvolvimento Back-end & VFX
+👨‍💻 **Áreas de interesse:**  
+Back-end • Design Gráfico • UX/UI • VFX (Visual Effects)
 
-🤝 Buscando colaborar com: Projetos de análise e desenvolvimento de sistemas
+🚀 **Atualmente estudando:**  
+Desenvolvimento Back-end & VFX
 
-📫 Contato: danniell2528@gmail.com
+🤝 **Buscando colaborar com:**  
+Projetos de análise e desenvolvimento de sistemas
 
-🧠 Curiosidade: Apaixonado por aprendizado contínuo – estou sempre explorando novas tecnologias
+📫 **Contato:**  
+[danniell2528@gmail.com](mailto:danniell2528@gmail.com)
+
+🌐 **Site:**  
+(Em breve ou insira o link aqui)
+
+🧠 **Curiosidade:**  
+Apaixonado por aprendizado contínuo – estou sempre explorando novas tecnologias
+
 <!---
 DanniellMendss/DanniellMendss é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
 Você pode clicar no link Preview para dar uma olhada nas suas alterações.

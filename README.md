@@ -8,11 +8,9 @@ Também sou criador de conteúdo no <a href="https://www.youtube.com/@DanniellCo
 
 # 🚀 O que eu faço
 
-* 💻 Desenvolvimento web (frontend e backend)
+* 💻 Desenvolvimento web Front-End
 * 🎨 Design Gráfico
-* 🧠 UX/UI
 * ✨ VFX (Visual Effects)
-* 🎥 Criar tutoriais de codificação web no YouTube
 * 💡 Adoro trabalhar com tecnologias web modernas
 * 🛠️ Sempre experimentando novas ferramentas e frameworks
 

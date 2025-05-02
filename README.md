@@ -6,6 +6,12 @@ Também sou criador de conteúdo no <a href="https://www.youtube.com/@DanniellCo
 
 ✨ Mesmo com minha pouca experiência, acredito que todo conhecimento compartilhado pode abrir portas. Quero inspirar e mostrar que é possível trilhar esse caminho da programação, um passo de cada vez.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
+</picture>
+
 # 🚀 O que eu faço
 
 * 💻 Desenvolvimento web Front-End
@@ -30,10 +36,3 @@ Também sou criador de conteúdo no <a href="https://www.youtube.com/@DanniellCo
 * 📧 E-mail: <a href="mailto:danniell2528@gmail.com?subject=Orcamento%20Request" target="_blank">Enviar mensagem</a>
 * 🐱 GitHub: <a href="https://github.com/DanniellMendss" target="_blank">@DanniellMendss</a>
 * 🌐 Site: (Em desenvolvimento)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-light.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
-</picture>
-

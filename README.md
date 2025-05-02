@@ -31,9 +31,9 @@ Também sou criador de conteúdo no <a href="https://www.youtube.com/@DanniellCo
 * 🐱 GitHub: <a href="https://github.com/DanniellMendss" target="_blank">@DanniellMendss</a>
 * 🌐 Site: (Em desenvolvimento)
 
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-light.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake.svg" />
 </picture>
+

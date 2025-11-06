@@ -37,7 +37,7 @@
 🌱 Atualmente me aprofundando em **Next.js, Docker, AWS e React Native**  
 💡 Criando soluções tecnológicas que resolvem problemas reais e entregam valor  
 🎥 Produtor de conteúdo técnico no **[YouTube @DanniellCode](https://youtube.com/@DanniellCode)** para inspirar e ensinar a comunidade dev  
-⚡ Fun fact: **Café + Música Lofi = Fluxo de Programação Perfeito** ☕🎵
+⚡ Fun fact: **Café + Música = Fluxo de Programação Perfeito** ☕🎵
 
 <br clear="right"/>
 

@@ -373,10 +373,6 @@ console.log("💡 Let's build something amazing together!");
 
 ### 💭 **Pensamento do Dia**
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<br/>
-
 ### ✨ _"Compartilhar conhecimento é abrir portas. O importante é começar — e não parar!"_
 
 <br/>

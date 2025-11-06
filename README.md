@@ -38,11 +38,11 @@
 
 🔭 Fundador da **[DmCode Solutions](https://dmcodesolutions.vercel.app/)** - criando experiências digitais memoráveis
 
-🌱 Atualmente aprofundando em **Next.js, TypeScript e Arquitetura Cloud**
+🌱 Atualmente aprofundando em **Next.js, Docker, AWS e React Native**
 
 💡 Focado em criar soluções que **realmente fazem diferença**
 
-🎥 Compartilho conhecimento no **[YouTube](https://youtube.com/@DanniellCode)** com a comunidade dev
+🎥 Com objetivo de criar e compartilhar conhecimento no **[YouTube](https://youtube.com/@DanniellCode)** com a comunidade dev
 
 ⚡ Fun fact: **Café + Música Lofi = Código Perfeito** ☕🎵
 
@@ -56,34 +56,40 @@
 
 ### ⚔️ Frontend Arsenal
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5_★★★-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3_★★★-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript_★★-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript_★★-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_★★-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS_★★-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 
 ### 🛡️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js_★★-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js_★★-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_★-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB_★-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### 🔧 Ferramentas & DevOps
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git_★★★-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub_★★★-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code_★★★-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma_★★-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+
+### 🌱 Atualmente Aprendendo
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
@@ -281,18 +287,36 @@ Dicas e experiências
 
 ```typescript
 const danielMendes = {
-  codigo: ["JavaScript", "TypeScript", "HTML5", "CSS3", "Node.js"],
-  
-  focoAtual: {
-    aprendendo: ["Next.js 14", "TypeScript Avançado", "Testes com Jest", "Arquitetura Serverless"],
-    construindo: ["Novos projetos DmCode Solutions", "Conteúdo educacional", "Comunidade tech"],
-    experimentando: ["Three.js", "Animações avançadas", "IA com APIs modernas"]
+  experiencia: {
+    frontend: {
+      html_css: "2+ anos",
+      javascript: "1+ ano",
+      typescript: "1+ ano",
+      react: "1+ ano",
+      tailwind: "1+ ano"
+    },
+    backend: {
+      nodejs: "1+ ano",
+      express: "1+ ano",
+      postgresql: "8 meses",
+      mongodb: "6 meses"
+    },
+    ferramentas: {
+      git: "3+ anos",
+      github: "3+ anos",
+      vscode: "4+ anos",
+      figma: "1+ ano"
+    }
   },
   
+  aprendendo: ["Next.js", "Docker", "AWS", "React Native", "Python"],
+  
+  foco: "Sempre em busca de novas tecnologias e tendências para oferecer as melhores soluções",
+  
   metasProximas: {
-    curto_prazo: "Dominar arquitetura de micro-frontends",
-    medio_prazo: "Lançar curso completo de React",
-    longo_prazo: "Construir produtos SaaS escaláveis"
+    curto_prazo: "Dominar Next.js e arquitetura serverless",
+    medio_prazo: "Criar produtos SaaS escaláveis com AWS",
+    longo_prazo: "Lançar aplicativos mobile com React Native"
   },
   
   disponibilidade: {
@@ -302,10 +326,10 @@ const danielMendes = {
     colaboracoes: "Sempre aberto a projetos interessantes! 🤝"
   },
   
-  motivacao: "Compartilhar conhecimento é multiplicar possibilidades ✨"
+  filosofia: "Em constante evolução tecnológica 🚀"
 };
 
-console.log("🚀 Let's build something amazing together!");
+console.log("💡 Let's build something amazing together!");
 ```
 
 ---

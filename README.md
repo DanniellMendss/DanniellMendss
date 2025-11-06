@@ -269,6 +269,7 @@
 </div>
 
 <div align="center">
+<br/>
 
 ✨ "O importante é começar — e nunca parar de evoluir. Compartilhar conhecimento abre portas para todos." 
 

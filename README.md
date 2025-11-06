@@ -268,55 +268,6 @@
 
 </div>
 
-```typescript
-const danielMendes = {
-  experiencia: {
-    frontend: {
-      html_css: "2+ anos",
-      javascript: "1+ ano",
-      typescript: "1+ ano",
-      react: "1+ ano",
-      tailwind: "1+ ano"
-    },
-    backend: {
-      nodejs: "1+ ano",
-      express: "1+ ano",
-      postgresql: "8 meses",
-      mongodb: "6 meses"
-    },
-    ferramentas: {
-      git: "3+ anos",
-      github: "3+ anos",
-      vscode: "4+ anos",
-      figma: "1+ ano"
-    }
-  },
-  
-  aprendendo: ["Next.js", "Docker", "AWS", "React Native", "Python"],
-  
-  foco: "Sempre em busca de novas tecnologias e tendências para oferecer as melhores soluções",
-  
-  metasProximas: {
-    curto_prazo: "Dominar Next.js e arquitetura serverless",
-    medio_prazo: "Criar produtos SaaS escaláveis com AWS",
-    longo_prazo: "Lançar aplicativos mobile com React Native"
-  },
-  
-  disponibilidade: {
-    freelance: true,
-    consultoria: true,
-    mentorias: true,
-    colaboracoes: "Sempre aberto a projetos interessantes! 🤝"
-  },
-  
-  filosofia: "Em constante evolução tecnológica 🚀"
-};
-
-console.log("💡 Let's build something amazing together!");
-```
-
----
-
 <div align="center">
 
 💭 Pensamento do Dia

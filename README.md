@@ -320,6 +320,8 @@ console.log("💡 Let's build something amazing together!");
 <div align="center">
 
 💭 Pensamento do Dia
+<br/>
+
 ✨ "O importante é começar — e nunca parar de evoluir. Compartilhar conhecimento abre portas para todos." 
 
 <br/>

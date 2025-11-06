@@ -271,55 +271,51 @@
 ```typescript
 const danielMendes = {
   experiencia: {
-    frontend: ["HTML/CSS", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind"],
-    backend: ["Node.js", "Express", "PostgreSQL", "MongoDB"],
-    ferramentas: ["Git", "GitHub", "VS Code", "Figma", "Docker", "Vercel"]
+    frontend: {
+      html_css: "2+ anos",
+      javascript: "1+ ano",
+      typescript: "1+ ano",
+      react: "1+ ano",
+      tailwind: "1+ ano"
+    },
+    backend: {
+      nodejs: "1+ ano",
+      express: "1+ ano",
+      postgresql: "8 meses",
+      mongodb: "6 meses"
+    },
+    ferramentas: {
+      git: "3+ anos",
+      github: "3+ anos",
+      vscode: "4+ anos",
+      figma: "1+ ano"
+    }
   },
+  
   aprendendo: ["Next.js", "Docker", "AWS", "React Native", "Python"],
-  foco: "Criar soluções digitais eficientes, escaláveis e com ótima experiência do usuário",
+  
+  foco: "Sempre em busca de novas tecnologias e tendências para oferecer as melhores soluções",
+  
   metasProximas: {
-    curtoPrazo: "Dominar Next.js e arquitetura serverless",
-    medioPrazo: "Desenvolver produtos SaaS com infraestrutura na nuvem",
-    longoPrazo: "Lançar aplicativos mobile com React Native"
+    curto_prazo: "Dominar Next.js e arquitetura serverless",
+    medio_prazo: "Criar produtos SaaS escaláveis com AWS",
+    longo_prazo: "Lançar aplicativos mobile com React Native"
   },
+  
   disponibilidade: {
     freelance: true,
     consultoria: true,
     mentorias: true,
-    colaboracoes: "Aberto a novos desafios e parcerias!"
+    colaboracoes: "Sempre aberto a projetos interessantes! 🤝"
   },
-  filosofia: "Aprender constantemente e compartilhar conhecimento. Evolução contínua. 🚀"
+  
+  filosofia: "Em constante evolução tecnológica 🚀"
 };
 
-console.log("Vamos construir algo incrível juntos? Entre em contato!");
-<div align="center">
+console.log("💡 Let's build something amazing together!");
+```
 
-📬 Vamos Conectar?
-Vamos trocar ideias, colaborar ou criar algo novo!
-<br/>
-
-<a href="https://dmcodesolutions.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Website-dmcodesolutions.vercel.app-4A90E2?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-<a href="https://instagram.com/dmcodesolutions" target="_blank">
-<img src="https://img.shields.io/badge/@dmcodesolutions-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/danniellmendss" target="_blank">
-<img src="https://img.shields.io/badge/Daniel_Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://youtube.com/@DanniellCode" target="_blank">
-<img src="https://img.shields.io/badge/Danniell_Code-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<a href="mailto:contato@dmcodesolutions.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-
-
-
-<img src="https://komarev.com/ghpvc/?username=DanniellMendss&label=Visitantes&color=4A90E2&style=for-the-badge" alt="Visitantes" />
-
-</div>
+---
 
 <div align="center">
 

@@ -19,9 +19,6 @@
 <a href="https://portfolio.dmcodesolutions.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/💼_PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9333EA" alt="Portfólio" />
 </a>
-<a href="https://youtube.com/@DanniellCode" target="_blank">
-  <img src="https://img.shields.io/badge/▶️_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
 <a href="https://linkedin.com/in/danielmendes" target="_blank">
   <img src="https://img.shields.io/badge/💼_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>

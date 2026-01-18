@@ -11,10 +11,13 @@
 
 # 💫 Transformando Ideias em Código que Impacta
 
-### 🚀 Full Stack Developer | 🎨 UI/UX Enthusiast | 📱 Digital Creator | 🎓 Tech Educator
+ Stack Developer | 🎨 UI/UX Enthusiast | 📱 Digital Creator | 🎓 Tech Educator
 
-<a href="https://dmcodesolutions.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=4A90E2" alt="Website" />
+<a href="https://www.dmcodesolutions.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/🏢_SITE_PROFISSIONAL-000000?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=4A90E2" alt="DmCode Solutions" />
+</a>
+<a href="https://portfolio.dmcodesolutions.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_PORTFÓLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=9333EA" alt="Portfólio" />
 </a>
 <a href="https://youtube.com/@DanniellCode" target="_blank">
   <img src="https://img.shields.io/badge/▶️_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
@@ -111,8 +114,11 @@
 
 ### Transformando Visões em Realidade Digital
 
-<a href="https://dmcodesolutions.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_CONHEÇA_NOSSOS_SERVIÇOS-4A90E2?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="50" alt="DmCode Solutions" />
+<a href="https://www.dmcodesolutions.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_ACESSE_O_SITE_OFICIAL-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000" height="50" alt="DmCode Solutions" />
+</a>
+<a href="https://portfolio.dmcodesolutions.com.br/" target="_blank">
+  <img src="https://img.shields.io/badge/💼_VER_PORTFÓLIO-9333EA?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="50" alt="Portfólio" />
 </a>
 
 </div>
@@ -166,7 +172,7 @@
 
 <br/>
 
-<a href="https://dmcodesolutions.vercel.app/#contato" target="_blank">
+<a href="https://www.dmcodesolutions.com.br/#contato" target="_blank">
   <img src="https://img.shields.io/badge/📧_SOLICITE_UM_ORÇAMENTO-4A90E2?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Contato" />
 </a>
 
@@ -244,8 +250,8 @@
         🔍 SEO otimizado
       </p>
       <br/>
-      <a href="https://dmcodesolutions.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Ver_Projeto-4A90E2?style=for-the-badge&logo=vercel" />
+      <a href="https://www.dmcodesolutions.com.br/" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Ver_Site-4A90E2?style=for-the-badge&logo=google-chrome" />
       </a>
       <a href="https://github.com/DanniellMendss/dmcodesolutions-site" target="_blank">
         <img src="https://img.shields.io/badge/💻_Código-181717?style=for-the-badge&logo=github" />
@@ -343,7 +349,8 @@ const goals2025 = {
 
 <p>Estou sempre aberto para discutir novos projetos, ideias criativas ou oportunidades de parceria!</p>
 
-[![Website](https://img.shields.io/badge/🌐_Website-dmcodesolutions.vercel.app-4A90E2?style=for-the-badge&logo=vercel&logoColor=white)](https://dmcodesolutions.vercel.app/)
+[![Site Oficial](https://img.shields.io/badge/🏢_Site_Oficial-dmcodesolutions.com.br-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.dmcodesolutions.com.br/)
+[![Portfólio](https://img.shields.io/badge/💼_Portfólio-portfolio.dmcodesolutions-9333EA?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.dmcodesolutions.com.br/)
 [![YouTube](https://img.shields.io/badge/▶️_YouTube-@DanniellCode-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@DanniellCode)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Daniel_Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielmendes)
 [![Email](https://img.shields.io/badge/📧_Email-contato@dmcode-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@dmcodesolutions.com)

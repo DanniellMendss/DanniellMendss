@@ -3,108 +3,185 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanniellMendss/DanniellMendss/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanniellMendss/DanniellMendss/output/pacman-contribution-graph.svg" />
-  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/DanniellMendss/DanniellMendss/output/pacman-contribution-graph.svg" />
+  <img alt="Contribution Graph" src="https://raw.githubusercontent.com/DanniellMendss/DanniellMendss/output/pacman-contribution-graph.svg" />
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=180&section=header&text=Daniel%20Mendes&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=fff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Daniel%20Mendes&fontSize=75&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20%C2%B7%20Fundador%20da%20DmCode%20Solutions&descSize=16&descAlignY=58&descColor=aaaacc" />
 
 <br/>
 
-### Full Stack Developer · Fundador da DmCode Solutions
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=7C7CFF&center=true&vCenter=true&random=false&width=600&lines=Construindo+produtos+digitais+de+alto+impacto;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Do+design+%C3%A0+infraestrutura%2C+end-to-end;Fundador+%40+DmCode+Solutions+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<a href="https://www.dmcodesolutions.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Site_Oficial-dmcodesolutions.com.br-4A7CFF?style=flat-square&logo=google-chrome&logoColor=white" />
+<br/>
+
+<a href="https://www.dmcodesolutions.com.br/">
+  <img src="https://img.shields.io/badge/🌐_dmcodesolutions.com.br-0f0c29?style=for-the-badge" />
 </a>
-&nbsp;
-<a href="https://portfolio.dmcodesolutions.com.br/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-portfolio.dmcodesolutions-7C3AED?style=flat-square&logo=vercel&logoColor=white" />
+<a href="https://portfolio.dmcodesolutions.com.br/">
+  <img src="https://img.shields.io/badge/💼_Portfólio-302b63?style=for-the-badge" />
 </a>
-&nbsp;
-<a href="https://linkedin.com/in/danielmendes" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Daniel_Mendes-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/danielmendes">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-&nbsp;
 <a href="mailto:contato@dmcodesolutions.com">
-  <img src="https://img.shields.io/badge/Email-contato@dmcode-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
 
-![Status](https://img.shields.io/badge/●_Disponível_para_projetos-22C55E?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/Status-Disponível%20para%20projetos-22C55E?style=flat-square)
+![](https://img.shields.io/badge/Foco-Next.js%2015%20%7C%20React%20Native%20%7C%20AWS-7C7CFF?style=flat-square)
+![](https://komarev.com/ghpvc/?username=DanniellMendss&label=Visitas+ao+perfil&color=7C3AED&style=flat-square)
 
 </div>
 
 ---
 
-## Sobre
+<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-Construo produtos digitais de alta performance — do design à infraestrutura.
+## Sobre mim
 
-Sou fundador da **[DmCode Solutions](https://www.dmcodesolutions.com.br/)**, onde desenvolvo soluções web modernas que combinam experiência de usuário refinada com arquitetura sólida. Minha abordagem parte sempre de um problema real: entender o negócio, projetar a experiência e entregar código que funciona em produção.
+Sou desenvolvedor Full Stack e fundador da **[DmCode Solutions](https://www.dmcodesolutions.com.br/)** — onde transformo ideias em produtos digitais que funcionam de verdade.
 
-- **Especialidade:** aplicações web com React/Next.js, APIs robustas em Node.js e interfaces que as pessoas gostam de usar
-- **Explorando atualmente:** Next.js 15, React Native, Docker e arquiteturas serverless na AWS
-- **Filosofia:** código limpo não é um luxo — é o que torna um produto sustentável
+Minha abordagem é sempre orientada ao problema: entender o negócio, projetar a experiência e entregar código sólido que escala em produção.
 
----
+**O que faço:**
+- Aplicações web modernas com React e Next.js
+- APIs e backends escaláveis com Node.js
+- Interfaces que unem performance e design
 
-## Stack
+**Explorando agora:**
+- Next.js 15 e React Server Components
+- React Native para mobile
+- AWS e arquiteturas serverless
+- Docker e microsserviços
 
-**Frontend**
+> *"Código limpo não é um luxo — é o que torna um produto sustentável."*
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-
-**Backend & Dados**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Ferramentas & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<br clear="right"/>
 
 ---
 
-## Projetos
+## Stack tecnológico
 
-### DmCode Solutions — Site Institucional
-Site institucional com design premium, animações via Framer Motion e performance 95+ no Lighthouse.
+<div align="center">
 
-`Next.js` `TypeScript` `Tailwind CSS` `Framer Motion`
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-[→ Ver site](https://www.dmcodesolutions.com.br/) · [→ Código](https://github.com/DanniellMendss/dmcodesolutions-site)
+### Backend & Banco de Dados
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### Ferramentas & DevOps
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
 
 ---
 
-### Sistema de Agendamentos
-Plataforma completa para gestão de salões de beleza: dashboard administrativo, agendamento em tempo real, gestão de clientes e controle financeiro integrado.
+## Estatísticas do GitHub
 
-`React` `Node.js` `MongoDB` `Express`
+<div align="center">
 
-[→ Ver código](https://github.com/DanniellMendss/sistema-agendamento)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=DanniellMendss&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C7CFF&icon_color=7C7CFF&text_color=c9d1d9&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanniellMendss&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C7CFF&text_color=c9d1d9&langs_count=8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DanniellMendss&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C7CFF&ring=7C7CFF&fire=FF6B6B&currStreakLabel=7C7CFF" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanniellMendss&theme=tokyo-night&bg_color=0d1117&color=7C7CFF&line=7C7CFF&point=ffffff&hide_border=true" />
+
+</div>
 
 ---
 
-### Jogo Multiplayer Competitivo `em desenvolvimento · 65%`
+## Projetos em destaque
 
-Matchmaking inteligente, ranking global com sistema de temporadas e real-time multiplayer via WebSockets. Mais detalhes em breve.
+<div align="center">
 
-`WebSockets` `Canvas API` `Node.js`
+<a href="https://github.com/DanniellMendss/dmcodesolutions-site">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanniellMendss&repo=dmcodesolutions-site&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C7CFF&text_color=c9d1d9&icon_color=7C7CFF" />
+</a>
+<a href="https://github.com/DanniellMendss/sistema-agendamento">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanniellMendss&repo=sistema-agendamento&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C7CFF&text_color=c9d1d9&icon_color=7C7CFF" />
+</a>
+
+</div>
+
+<br/>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏢 DmCode Solutions</h3>
+      <p align="center"><i>Site institucional com design premium</i></p>
+      <p>
+        → Animações com Framer Motion<br/>
+        → Design system próprio e consistente<br/>
+        → Performance 95+ no Lighthouse<br/>
+        → Responsivo e otimizado para SEO
+      </p>
+      <p align="center">
+        <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code>
+      </p>
+      <p align="center">
+        <a href="https://www.dmcodesolutions.com.br/"><b>🌐 Ver site</b></a> &nbsp;·&nbsp;
+        <a href="https://github.com/DanniellMendss/dmcodesolutions-site"><b>💻 Código</b></a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📅 Sistema de Agendamentos</h3>
+      <p align="center"><i>Plataforma para gestão de salões de beleza</i></p>
+      <p>
+        → Dashboard administrativo completo<br/>
+        → Agendamento em tempo real<br/>
+        → Gestão de clientes e serviços<br/>
+        → Controle financeiro integrado
+      </p>
+      <p align="center">
+        <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code>
+      </p>
+      <p align="center">
+        <a href="https://github.com/DanniellMendss/sistema-agendamento"><b>💻 Ver código</b></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+### 🎮 Projeto secreto em desenvolvimento
+
+![Progress](https://img.shields.io/badge/Progresso-65%25-7C7CFF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-FFD700?style=for-the-badge)
+
+Jogo competitivo multiplayer com matchmaking inteligente, ranking global, sistema de temporadas e real-time via WebSockets.
+
+`WebSockets` `Canvas API` `Node.js` `React`
+
+**Em breve...**
+
+</div>
 
 ---
 
@@ -124,30 +201,34 @@ const goals2025 = {
     "Lançar 3 produtos SaaS próprios",
     "Estruturar time de desenvolvimento",
   ],
-};
+} as const;
 ```
 
 ---
 
-## Contato
-
-Aberto a novos projetos, parcerias e oportunidades.
-
-| Canal | Link |
-|---|---|
-| Site | [dmcodesolutions.com.br](https://www.dmcodesolutions.com.br/) |
-| Portfólio | [portfolio.dmcodesolutions.com.br](https://portfolio.dmcodesolutions.com.br/) |
-| LinkedIn | [linkedin.com/in/danielmendes](https://linkedin.com/in/danielmendes) |
-| E-mail | [contato@dmcodesolutions.com](mailto:contato@dmcodesolutions.com) |
-
----
+## Conecte-se
 
 <div align="center">
-<sub><i>"Código limpo + UI encantadora = produtos que as pessoas amam usar."</i></sub>
+
+Aberto a projetos, parcerias e oportunidades.
+
+<a href="https://www.dmcodesolutions.com.br/">
+  <img src="https://img.shields.io/badge/🏢_Site_Oficial-0f0c29?style=for-the-badge" />
+</a>
+<a href="https://portfolio.dmcodesolutions.com.br/">
+  <img src="https://img.shields.io/badge/💼_Portfólio-302b63?style=for-the-badge" />
+</a>
+<a href="https://linkedin.com/in/danielmendes">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:contato@dmcodesolutions.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=DanniellMendss&label=Visualizações&color=4A7CFF&style=flat-square" />
-<br/><br/>
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-<br/>
-<sub>Daniel Mendes · DmCode Solutions · © 2025</sub>
+
+<sub>Desenvolvido com ❤️ por Daniel Mendes &nbsp;·&nbsp; © 2025 DmCode Solutions</sub>
+
 </div>

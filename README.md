@@ -157,30 +157,7 @@ Jogo competitivo multiplayer · Matchmaking inteligente · Ranking global · Web
 
 ---
 
-## `05` &nbsp;metas 2025
-
-```typescript
-const goals2025 = {
-  tecnico: [
-    "Publicar app React Native nas lojas",
-    "Certificação AWS Solutions Architect",
-    "Arquitetura de microsserviços na prática",
-    "Contribuir em 3+ projetos open source",
-  ],
-  negocios: [
-    "Expandir portfólio da DmCode Solutions",
-    "Atender 30+ clientes com excelência",
-    "Lançar 3 produtos SaaS próprios",
-    "Estruturar time de desenvolvimento",
-  ],
-} as const;
-```
-
----
-
-<div align="center">
-
-## `06` &nbsp;conecte-se
+## `05` &nbsp;conecte-se
 
 [![Site](https://img.shields.io/badge/🏢_Site_Oficial-6C63FF?style=for-the-badge)](https://www.dmcodesolutions.com.br/)
 [![Portfólio](https://img.shields.io/badge/💼_Portfólio-A78BFA?style=for-the-badge)](https://portfolio.dmcodesolutions.com.br/)

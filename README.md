@@ -110,19 +110,6 @@ Localização →  Brasil · disponível remoto
 
 ## `04` &nbsp;projetos
 
-<div align="center">
-
-<a href="https://github.com/DanniellMendss/dmcodesolutions-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanniellMendss&repo=dmcodesolutions-site&hide_border=true&bg_color=0E0E12&title_color=6C63FF&text_color=8888AA&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/DanniellMendss/sistema-agendamento">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanniellMendss&repo=sistema-agendamento&hide_border=true&bg_color=0E0E12&title_color=6C63FF&text_color=8888AA&icon_color=A78BFA" />
-</a>
-
-</div>
-
-<br/>
-
 <table>
   <tr>
     <td width="50%" valign="top">
